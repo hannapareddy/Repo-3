@@ -16,7 +16,7 @@ public class Address {
      */
     public static void main(String[] args) {
         System.out.println("Harish");
-        System.out.println("Miami,Florida-33172");
+        System.out.println("Miami");
     }
     
 }
